@@ -1,5 +1,4 @@
 # MachineLearningEngineerHiringTest
-Sample code for test
 
 The objective of this project is to design and demonstrate a production-grade Retrieval-Augmented Generation (RAG) system and a supporting Scalable Data Platform within the Azure Ecosystem.
 
